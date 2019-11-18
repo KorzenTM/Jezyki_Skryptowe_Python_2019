@@ -131,7 +131,7 @@ def zadanie_10():
 #zadanie_2()
 #zadanie_3()
 #zadanie_4()
-#zadanie_5()
+zadanie_5()
 #zadanie_6()
 #zadanie_7() 
 #zadanie_8()       

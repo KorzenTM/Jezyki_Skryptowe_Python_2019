@@ -151,8 +151,8 @@ def zadanie_9():
      
     table=np.zeros((m,n),int)
     
-    for i in range(0,m):
-        for j in range(0,n):
+    for i in range(1,m+1):
+        for j in range(1,n+1):
             table[i][j]=i*j
             
     print(table)        
@@ -184,5 +184,5 @@ def zadanie_10():
 #zadanie_6()
 #zadanie_7()
 #zadanie_8()
-#zadanie_9()
-zadanie_10()
+zadanie_9()
+#zadanie_10()
