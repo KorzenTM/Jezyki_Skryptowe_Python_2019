@@ -43,5 +43,5 @@ def deszyfrowanie(napis):
         else: #jesli znak nie jest litera pozostawiamy bez zmian
             napis_2+=napis[i]
             
-    print("Zaszyfrowany napis:",napis_2)
+    print("Odszyfrowany napis:",napis_2)
     return
