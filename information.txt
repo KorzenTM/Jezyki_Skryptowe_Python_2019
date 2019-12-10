@@ -1,0 +1,20 @@
+nr 04113050103
+data urodzenia:30-11-1904	płeć:Men
+nr 36113084688
+data urodzenia:30-11-1936	płeć:Men
+nr 24062397616
+data urodzenia:23-06-1924	płeć:Woman
+nr 35071330121
+data urodzenia:13-07-1935	płeć:Men
+nr 21041588715
+data urodzenia:15-04-1921	płeć:Woman
+nr 60020070502
+data urodzenia:00-02-1960	płeć:Men
+nr 46102568352
+data urodzenia:25-10-1946	płeć:Woman
+nr 44122486159
+data urodzenia:24-12-1944	płeć:Woman
+nr 56093005527
+data urodzenia:30-09-1956	płeć:Men
+nr 83120391953
+data urodzenia:03-12-1983	płeć:Woman

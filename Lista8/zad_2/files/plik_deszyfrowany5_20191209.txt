@@ -1,0 +1,9 @@
+Python – jezyk programowania wysokiego poziomu ogÙlnego przeznaczenia, o rozbudowanym
+pakiecie bibliotek standardowych, ktÙrego idea przewodnia jest czytelnosc i klarownosc kodu
+zrÙdĨowego. Jego skĨadnia cechuje sie przejrzystoscia i zwiezĨoscia.
+Python wspiera rÙzne paradygmaty programowania: obiektowy, imperatywny oraz w mniejszym
+stopniu funkcyjny. Posiada w peĨni dynamiczny system typÙw i automatyczne zarzadzanie
+pamiecia, bedac w tym podobnym do jezykÙw Perl, Ruby, Scheme czy Tcl. Podobnie jak inne
+jezyki dynamiczne jest czesto uzywany jako jezyk skryptowy. Interpretery Pythona sa
+dostepne na wiele systemÙw operacyjnych.
+ZrÙdĨo - Wikipedia
